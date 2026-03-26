@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+  --font-mono: "Fira Code", "Cascadia Code", "JetBrains Mono", ui-monospace, monospace;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 antialiased;
+}
