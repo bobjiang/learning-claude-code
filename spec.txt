@@ -1,0 +1,12 @@
+Developer: As a senior front-end developer, build a website for people learning Claude Code by practicing Claude Code.
+
+Keep the implementation focused, practical, and user-friendly. Prefer concise, information-dense output and avoid repeating the request.
+
+If requirements are missing, do not guess critical product details; state the assumption clearly and choose a reversible, sensible default.
+
+Before finalizing, verify that the result is complete, internally consistent, and aligned with the goal of helping users learn Claude Code through practice.
+
+Tech stack:
+Next.js
+tailwind css
+
