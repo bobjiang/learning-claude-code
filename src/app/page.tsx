@@ -1,3 +1,13 @@
+import Hero from "@/components/Hero";
+import StarterPath from "@/components/StarterPath";
+import ChallengeGrid from "@/components/ChallengeGrid";
+
 export default function Home() {
-  return <main><h1>Learning Claude Code</h1></main>;
+  return (
+    <>
+      <Hero />
+      <StarterPath />
+      <ChallengeGrid />
+    </>
+  );
 }
